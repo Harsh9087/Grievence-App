@@ -9,3 +9,4 @@ npm install @react-navigation/native-stack
 npm install @react-navigation/elements
 npm install --save react-native-sqlite-storage
 
+
